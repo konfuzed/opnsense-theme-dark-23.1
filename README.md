@@ -1,9 +1,10 @@
-# opnsense-theme-dark
+# opnsense-theme-dark-23.1
 Dark theme for OPNsense, because real networking people dwell in the dark.
+This is a fork of the original, updated for OPNSense 23.1. 
 
-the .txz package can be installed with:
+The .txz package can be installed with:
 
-    sudo pkg add https://github.com/kleverbear/opnsense-theme-dark-23.1/raw/main/os-theme-dark-devel-0.1.txz
+    sudo pkg add https://github.com/kleverbear/opnsense-theme-dark-23.1/blob/main/
 
 after installation, a new dark theme should appear in System-General -> Theme
 
